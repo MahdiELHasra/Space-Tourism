@@ -7,19 +7,12 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-<<<<<<< HEAD
   - [Links](#links)
-=======
->>>>>>> 9af91b90d1e595a2d3b1652ccb502448bbde2992
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-<<<<<<< HEAD
-- [Author](#author)
-=======
->>>>>>> 9af91b90d1e595a2d3b1652ccb502448bbde2992
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -33,7 +26,6 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
-<<<<<<< HEAD
 
 ![Homepage](https://raw.githubusercontent.com/tgharris/space-tourism-website/aa2facfa2befda7df0acba4a976f64f1bb301d86/screenshots/home_desktop.jpeg)
 
@@ -41,9 +33,7 @@ Users should be able to:
 
 - Solution URL: [My solution](https://www.frontendmentor.io/solutions/space-tourism-website-using-semantic-html5-and-css-grid-YuWJs6I1Pr)
 - Live Site URL: [Space Tourism Website](https://tgharris.github.io/space-tourism-website/index.html)
-=======
 ![home_desktop](https://github.com/MahdiELHasra/Space-Trousim/assets/114767917/0732cc3b-32f9-4838-acc5-0a4771120274)
->>>>>>> 9af91b90d1e595a2d3b1652ccb502448bbde2992
 
 ## My process
 Since this is the largest project I have built so far, I decided to follow Kevin Powell's [Build a Space Travel Website](https://scrimba.com/learn/spacetravel) course on [scrimba.com](https://www.scrimba.com/). Upon completing the course, I finished the technology page using the principles and methods I learned along the way. I then decided that I wanted to alter the code to utilize the JSON data, so I rewrote a portion of the codebase to implement the change. Finally, I adjusted the styling for each page to more accurately capture the design in the provided Figma file.
